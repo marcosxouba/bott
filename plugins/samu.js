@@ -10,8 +10,8 @@ let handler = async m => m.reply(`
 https://youtube.com/channel/UCnJsyIe2XksWO3jVHGXYMhw
                                         
 `.trim()) 
-handler.help = ['samu']
+handler.help = ['DarkZE']
 handler.tags = ['info']
-handler.command = /^samu$/i
+handler.command = /^darkze$/i
 
 module.exports = handler
