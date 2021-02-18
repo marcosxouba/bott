@@ -88,7 +88,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 │ 👑𝐌𝐲 𝐜𝐚𝐧𝐚𝐥 𝐝𝐞 𝐲𝐨𝐮𝐭𝐮𝐛𝐞
 │ https://youtube.com/channel/UCnJsyIe2XksWO3jVHGXYMhw
 │ 𝑇ℎ𝑎𝑛𝑘𝑠 𝑡𝑜 
-│ DarkZE-Ezequiel
+│ DarkZE-Ezequiel: wa.me/+524641228001
 ╰────
 %readmore
 ╭─〘🛑 𝗢𝗯𝗲𝗱𝗲𝗰𝗲 𝗹𝗮𝘀 𝗿𝗲𝗴𝗹𝗮𝘀 🛑〙
