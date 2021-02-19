@@ -17,7 +17,7 @@ TEAM ♥️• ̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬�
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/Ezequiel7u7xD/bott.git
-> cd esubot
+> cd bott
 > npm install
 ```
 ###### Run🏃🏻‍♂️
