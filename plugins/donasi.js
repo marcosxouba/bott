@@ -1,6 +1,6 @@
 let handler = async m => m.reply(`
 ╭─〘 DarkZE 〙
-│ • 𝑃𝑎𝑦𝑝𝑎𝑙 [Por el momento no hay...]
+│ • 𝑃𝑎𝑦𝑝𝑎𝑙 [https://www.paypal.me/Michae165]
 │ • Pero con que te suscribas a mi canal basta:)
 │ https://youtube.com/channel/UCnJsyIe2XksWO3jVHGXYMhw
 ╰────
