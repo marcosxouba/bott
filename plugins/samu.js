@@ -6,6 +6,7 @@ let handler = async m => m.reply(`
 Contactame; 
 wa.me/+524641228001
 
+Donaciones Paypal: https://www.paypal.me/Michae165
 𝙈𝙮 𝘾𝙝𝙖𝙣𝙚𝙡:
 
 https://youtube.com/channel/UCnJsyIe2XksWO3jVHGXYMhw
