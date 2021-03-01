@@ -1,5 +1,5 @@
 {
-  "name": "wabot-aq",
+  "name": "EzequielBot",
   "version": "1.2.8",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -19,15 +19,15 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "homepage": "https://github.com/Ezequiel7u7xD/bott.git",
   "author": {
-    "name": "Nurutomo"
+    "name": "Ezequiel"
   },
   "repository": {
-    "url": "https://github.com/Nurutomo/wabot-aq.git"
+    "url": "https://github.com/Ezequiel7u7xD/bott.git"
   },
   "bugs": {
-    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+    "url": "https://github.com/Ezequiel7u7xD/bott.git"
   },
   "license": "GPL3",
   "dependencies": {
